@@ -1,4 +1,4 @@
-# Vue Hello World Template
+# claude-vue-template
 
 A modern Vue.js starter template with TypeScript, Pinia, Playwright testing, and GitHub Actions CI/CD setup. This project provides a solid foundation for developing Vue applications with best practices baked in.
 
@@ -19,11 +19,7 @@ This repository is designed to be used as a starting point for new Vue.js projec
 
 ### Option 1: Create a new repository from this template
 
-1. Click the "Use this template" button on GitHub
-2. Name your new repository and create it
-3. Clone your new repository locally
-4. Run `npm install` to install dependencies
-5. Start developing!
+This repository is not currently marked as a GitHub template, so the "Use this template" button is not available. If you want to use that workflow, the repository owner needs to enable GitHub's template repository setting first. Until then, use one of the clone-based options below.
 
 ### Option 2: Clone and reset Git history
 
@@ -31,7 +27,7 @@ If you want to start with a clean Git history:
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/vue-hello-world.git my-new-project
+   git clone https://github.com/maxeonyx/claude-vue-template.git my-new-project
    ```
 
 2. Navigate to the project directory
@@ -63,7 +59,7 @@ If you want to preserve the commit structure but start from a clean slate:
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/vue-hello-world.git my-new-project
+   git clone https://github.com/maxeonyx/claude-vue-template.git my-new-project
    ```
 
 2. Navigate to the project directory
@@ -79,7 +75,7 @@ If you want to preserve the commit structure but start from a clean slate:
 4. Soft reset to that commit and create a fresh initial commit
    ```bash
    git reset --soft <first-commit-hash>
-   git commit -m "Initial commit with Vue Hello World template"
+   git commit -m "Initial commit with claude-vue-template"
    ```
 
 5. Set up a new remote and push
